@@ -1,0 +1,36 @@
+Mind the spikes!
+
+What happen if you cross a Goat with a Porkupine? Horrible things... Even more horrible than you can imagine!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Porcupine Goat: You have spikes on your back.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][RightClick] + [LeftClick]:[/b] Shoot some spikes around you.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][LT] + [RT]:[/b] Shoot some spikes around you.
+
+[b]CHARACTERISTICS[/b]
+- Spikes you shoot will stick into the first thing they touch.
+- When a spike stick into a living creature, it will go ragdoll.
+- When a non-ragdoll creature touch you, a spike will be stick into it.
+- When a living creature have too many spikes in his body, it will die.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Every time you shoot spikes, one of them will fly straight forward in front of you.[/spoiler]
+- [spoiler]You can shoot spikes very fast by holding right click and spamming left click ;)[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Spikes can end up floating in mid air (after breaking the object they stick to for example).
+- Spikes can sometimes pass through items without sticking to them.
+- Spikes might not stick to your goat body when starting a map in some rare cases.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This little mod was suggested very recently on the mod discussion, and I thought it could be really fun to play with and provide an alrernative way to kill things :)
+Here there is basically one item only I had to design, which is the spike :p I created one of them based on the sticky mine I designed for Rico Rodirgoat, except that the spike won't be able to explode. The shape itself is done by stretching a carrot item and replacing it's texture with some black and white squares X)
+Then most of the work was done, I had to tweak the sticky behaviour a bit to make sure spikes will keep the right angle when they fly and when they touch something, and I ended with a quite satisfying result :) All I had to do after that was to stick a bunch of those onto the goat back, and give it the ability to shoot some spikes as well.
+Also, as many people were requestions ways to kill regular NPCs, I decided to add this behaviour to this mod: This way you can choose how you kill your people, either with dark magic, with deadly punches or with a lot of spikes :p
+[/quote]
